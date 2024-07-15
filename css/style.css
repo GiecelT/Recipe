@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #F2E976;
+  font-family: 'Monaco', monospace;
+  text-align: center;
+  border: 3px solid #040400;
+}
+ul {
+  border: 3px solid #040400;
+}
+figcaption {
+  font-size: small;
+}
+h1 {
+  font-size: xx-large;
+}
